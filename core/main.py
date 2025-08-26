@@ -1,10 +1,6 @@
 
 from julia import Main
 
-Main.eval("""
-import Pkg
-Pkg.activate("Data")
-using Data
-""")
+Main.include("core/data.jl")
 
 print("Done.")
