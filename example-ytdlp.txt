@@ -1,0 +1,9 @@
+
+
+"yt-dlp",
+"--download-sections",
+"\"*00:00:10-00:00:11\"",
+"-x",
+"--audio-format",
+"wav",
+"https://www.youtube.com/watch?v=3hCFKZOGv9c&pp=0gcJCbIJAYcqIYzv"

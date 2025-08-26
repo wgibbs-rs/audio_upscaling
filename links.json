@@ -1,0 +1,53 @@
+{
+    "music": [
+        "\"*00:01:00-00:01:01\"",
+        "https://www.youtube.com/watch?v=89ihROphQJM",
+        "https://www.youtube.com/watch?v=Ot9187kyNpM",
+        "https://www.youtube.com/watch?v=Tv3V7lgZynw",
+        "https://www.youtube.com/watch?v=suSG7AbnLTA",
+        "https://www.youtube.com/watch?v=iCUOcnPOrOI",
+        "https://www.youtube.com/watch?v=c-51ewRZgg4",
+        "https://www.youtube.com/watch?v=TMuxjKoIrd4",
+        "https://www.youtube.com/watch?v=Vx0Xvo60O3g",
+        "https://www.youtube.com/watch?v=mKODgKYF-54",
+        "https://www.youtube.com/watch?v=3hCFKZOGv9c",
+        "https://www.youtube.com/watch?v=WN3o15yxt-4",
+        "https://www.youtube.com/watch?v=QDyW7ln5kYA"
+    ],
+
+    "sfx": [
+        "\"*00:00:00-00:00:01\"",
+        "https://www.youtube.com/watch?v=pqEn9icjK0I",
+        "https://www.youtube.com/watch?v=_g4Wazm3cJc",
+        "https://www.youtube.com/watch?v=NPbWhDaESds",
+        "https://www.youtube.com/watch?v=R2vb92bCKR0",
+        "https://www.youtube.com/watch?v=jdIE3IBay7I",
+        "https://www.youtube.com/watch?v=BUkJq8_7r5I",
+        "https://www.youtube.com/watch?v=S27ZB0NXvuY",
+        "https://www.youtube.com/watch?v=2z-E9GUJr9M",
+        "https://www.youtube.com/watch?v=KMifseLEaJ8",
+        "https://www.youtube.com/watch?v=06Ia6qBcvak",
+        "https://www.youtube.com/watch?v=ny6qazpJqIw",
+        "https://www.youtube.com/watch?v=JwQ9cfUIAeU"
+    ],
+
+    "environment": [
+        "\"*00:02:00-00:02:01\"",
+        "https://www.youtube.com/watch?v=4CmzL-cv-MI",
+        "https://www.youtube.com/watch?v=KRrQh-8O78M",
+        "https://www.youtube.com/watch?v=ugOMuHBT6tw",
+        "https://www.youtube.com/watch?v=zHEpbuKrW6w",
+        "https://www.youtube.com/watch?v=DR4TeEGVZRQ",
+        "https://www.youtube.com/watch?v=Kmrz7rfUOG4",
+        "https://www.youtube.com/watch?v=PFQpVkxZF3g",
+        "https://www.youtube.com/watch?v=fpaaLLJ3_Hk",
+        "https://www.youtube.com/watch?v=rw612SarGFQ",
+        "https://www.youtube.com/watch?v=83X26UkmbkM",
+        "https://www.youtube.com/watch?v=2YuvPtsa91I",
+        "https://www.youtube.com/watch?v=FAxr2TwLwFU",
+        "https://www.youtube.com/watch?v=zqFg61lANjE",
+        "https://www.youtube.com/watch?v=HEhP6dYE4Oo",
+        "https://www.youtube.com/watch?v=LhGvsMEkQbI",
+        "https://www.youtube.com/watch?v=OSu5KBzhSzg"
+    ]
+}
