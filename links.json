@@ -1,6 +1,10 @@
 {
-    "music": [
+    "section": [
         "\"*00:01:00-00:01:01\"",
+        "\"*00:00:00-00:00:01\"",
+        "\"*00:02:00-00:02:01\""
+    ],
+    "music": [
         "https://www.youtube.com/watch?v=89ihROphQJM",
         "https://www.youtube.com/watch?v=Ot9187kyNpM",
         "https://www.youtube.com/watch?v=Tv3V7lgZynw",
@@ -14,9 +18,7 @@
         "https://www.youtube.com/watch?v=WN3o15yxt-4",
         "https://www.youtube.com/watch?v=QDyW7ln5kYA"
     ],
-
     "sfx": [
-        "\"*00:00:00-00:00:01\"",
         "https://www.youtube.com/watch?v=pqEn9icjK0I",
         "https://www.youtube.com/watch?v=_g4Wazm3cJc",
         "https://www.youtube.com/watch?v=NPbWhDaESds",
@@ -30,9 +32,7 @@
         "https://www.youtube.com/watch?v=ny6qazpJqIw",
         "https://www.youtube.com/watch?v=JwQ9cfUIAeU"
     ],
-
-    "environment": [
-        "\"*00:02:00-00:02:01\"",
+    "nature": [
         "https://www.youtube.com/watch?v=4CmzL-cv-MI",
         "https://www.youtube.com/watch?v=KRrQh-8O78M",
         "https://www.youtube.com/watch?v=ugOMuHBT6tw",

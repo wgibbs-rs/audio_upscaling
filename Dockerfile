@@ -14,5 +14,3 @@ COPY . /app
 RUN julia setup.jl
 
 RUN pip3 install julia 
-
-CMD ["julia"]

@@ -1,6 +1,6 @@
 
 from julia import Main
 
-Main.include("core/data.jl")
+Main.include("src/data.jl")
 
 print("Done.")
